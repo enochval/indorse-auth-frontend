@@ -21,6 +21,8 @@ $ yarn start
 
 # generate static project
 $ yarn run generate
+
+# push the generated dist folder on the root directory to the server
 ```
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
